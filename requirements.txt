@@ -1,5 +1,5 @@
 pandas
 numpy
-plotly.graph_objects
-plotly.express
 streamlit
+pip install plotly.graph_objects
+pip install plotly.express
