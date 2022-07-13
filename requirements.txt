@@ -3,5 +3,3 @@ numpy
 plotly.graph_objects
 plotly.express
 streamlit
-
-grid_dash.xlsx
