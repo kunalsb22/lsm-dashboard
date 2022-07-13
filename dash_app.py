@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st
 
 #file = r'https://github.com/kunalsb22/lsm-dashboard/blob/main/grid_dash.xlsx'
-file = r'app/lsm-dashboard/grid_dash.xlsx'
+file = r'grid_dash.xlsx'
 df = pd.read_excel(file)
 
                                                                     #FLYING
