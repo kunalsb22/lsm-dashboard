@@ -4,7 +4,8 @@ import plotly.graph_objects as go
 import plotly.express as px
 import streamlit as st
 
-file = r'https://github.com/kunalsb22/lsm-dashboard/blob/main/grid_dash.xlsx'
+#file = r'https://github.com/kunalsb22/lsm-dashboard/blob/main/grid_dash.xlsx'
+file = r'E:/python_foundation/grid_dash.xlsx'
 df = pd.read_excel(file)
 
                                                                     #FLYING
